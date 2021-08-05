@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Electronics",
+    "price": "$299.99",
+    "stocked": true,
+    "name": "Nokia"
+  },
+  {
+    "category": "Electronics",
+    "price": "$99.99",
+    "stocked": true,
+    "name": "Nexus 7"
+  },
+  {
+    "category": "Sporting Goods",
+    "price": "$49.99",
+    "stocked": true,
+    "name": "Football"
+  },
+  {
+    "category": "Sporting Goods",
+    "price": "$9.99",
+    "stocked": true,
+    "name": "Cricket"
+  }
+]
